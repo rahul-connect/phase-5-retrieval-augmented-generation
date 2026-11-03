@@ -1,0 +1,71 @@
+# TechCorp Employee Handbook
+
+## Welcome to TechCorp
+
+Welcome to TechCorp. This handbook describes our company policies, benefits, and expectations. Please read it thoroughly during your first week. If you have questions about anything in this document, your manager and the People Operations team are available to help. This handbook is updated annually; the current version was last revised in March 2026.
+
+## Working Hours and Time Off
+
+TechCorp operates on a flexible schedule. Core collaboration hours are 10am to 3pm in your local timezone, during which you should be available for meetings and synchronous communication. Outside those hours, structure your day as works best for your productivity. We measure performance by outcomes, not hours worked.
+
+Full-time employees receive 25 days of paid vacation per year, accrued monthly. Vacation requests should be submitted in our HR system at least two weeks in advance for stays longer than three days. Shorter absences require only your manager's approval. Unused vacation does not roll over to the next calendar year, so plan to use it.
+
+In addition to vacation, employees receive 10 paid sick days per year. Sick days do not require advance notice but should be reported to your manager as soon as practical. We also observe 12 company holidays, listed on the intranet.
+
+## Remote Work Policy
+
+TechCorp is a remote-first company. All roles can be performed from anywhere in a country where TechCorp has a legal entity. Currently that includes the United States, United Kingdom, Germany, India, and Singapore. Hiring outside these countries requires special approval and is subject to immigration constraints.
+
+Employees working from home receive a one-time home office setup stipend of $1,500 for their first year, and $500 annually thereafter for equipment refresh. Internet reimbursement of $50 per month is available for employees in roles requiring frequent video calls. Submit stipend claims through the expense system.
+
+For employees who prefer office work, we maintain co-working memberships through WeWork and Industrious in major cities. Request access through the People Operations team.
+
+## Health and Wellness Benefits
+
+Full-time employees are eligible for health insurance from their first day. In the US, we offer three medical plans: a PPO, a high-deductible plan with HSA, and an HMO. Dental and vision are included in all plans. Family members can be added for an employee contribution.
+
+Outside the US, we provide equivalent coverage through local providers. Specifics vary by country; your offer letter and benefits portal have details for your location.
+
+All employees have access to the Modern Health platform for mental health support, including therapy sessions and coaching. The company covers up to 12 sessions per year per employee at no cost.
+
+A wellness stipend of $100 per month can be used for gym memberships, fitness classes, meditation apps, or similar health-related expenses. Submit receipts through the expense system monthly.
+
+## Professional Development
+
+TechCorp provides each employee with a $2,000 annual learning and development budget. This can be used for courses, conference tickets, books, certifications, or online learning subscriptions. The budget resets each January; unused funds do not carry over.
+
+Larger learning expenses (conference travel, multi-month programs) require advance approval from your manager. For sabbaticals or formal educational leaves longer than four weeks, contact People Operations to discuss options.
+
+Internal mobility is encouraged. Employees are eligible to apply for internal transfers after 12 months in their current role. Discussions should start with your current manager. The internal jobs board is on the intranet.
+
+## Code of Conduct
+
+TechCorp is committed to a workplace free of harassment and discrimination. We expect all employees, contractors, and visitors to treat each other with respect. Harassment of any kind — based on race, gender, sexual orientation, religion, disability, age, or any other protected characteristic — is not tolerated.
+
+Report concerns through your manager, People Operations, or our anonymous ethics hotline. All reports are investigated, and retaliation against those who report concerns in good faith is prohibited.
+
+Conflicts of interest should be disclosed proactively. If you have a financial interest, personal relationship, or external commitment that could affect your work decisions, inform your manager and People Operations. Transparent disclosure prevents problems.
+
+## Expense and Reimbursement Policy
+
+Business expenses should be submitted through our expense system within 30 days of the transaction. Receipts are required for all expenses over $25. For meals during business travel, we reimburse actual costs up to $75 per day in most locations and $100 per day in high-cost cities like San Francisco, New York, London, and Singapore.
+
+Travel bookings should be made through our corporate travel platform when possible, as it ensures policy compliance and often provides better rates. Business class travel is permitted for flights longer than 7 hours. Hotels should generally be booked at or below the per-city rate guidance in the travel platform.
+
+Approval workflows are automated based on amount and category. Expenses under $500 generally require only manager approval; larger amounts route to finance for review.
+
+## Communication Guidelines
+
+We prefer async communication over synchronous meetings when possible. Default to writing things down — in docs, in Slack messages, in commit messages — so that people in other timezones can catch up without requiring a live conversation.
+
+For meetings that must happen live, send an agenda in advance. Record meetings when attendees cannot join, and share notes afterward. Respect calendar blocks for focused work; not every request requires a meeting.
+
+Slack is our primary chat tool. Use channels over DMs so knowledge is discoverable. Use threads to keep channels readable. Status updates belong in specific project channels, not in general chat.
+
+## Equipment and Software
+
+New employees receive a laptop (choice of MacBook Pro or ThinkPad), monitor, keyboard, and mouse. Equipment is shipped to your address during onboarding. Any additional equipment needs can be requested through your manager.
+
+Software access is provisioned based on your role. Most employees get Google Workspace, Slack, Notion, GitHub, and the company password manager. Role-specific tools (design tools, data tools, admin consoles) are granted as needed. Request access through our IT portal.
+
+Equipment should be returned when you leave the company. We'll arrange shipping. Software licenses are revoked automatically on your last day.
